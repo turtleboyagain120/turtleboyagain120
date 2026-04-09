@@ -118,8 +118,6 @@ style E fill:#90EE90
 
 Emojis as progress bars: 🟣 🟣 🟣 🟣 🟣  **HTML/CSS 100%** | 🟣 🟣 🟣 🟣 🟣  **JS 100%** | 🟣 🟣 🟣 🟣 🟣  **Docker/Proxies 100%**
 
-**~150 words total**
-
 ## 🌍 **Proxy Learning Expedition: boring-proxy Odyssey** ⚡
 Venturing into **proxy realms** to unlock global connectivity! Built **[Proxys](https://github.com/turtleboyagain120/Learn-proxys)** – a Docker-orchestrated marvel blending **Nginx reverse proxying**, **Squid caching**, and **OpenVPN tunneling**. Study resilient networks: Route traffic seamlessly, experiment with protocols, scale for real-world flows.
 

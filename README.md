@@ -22,8 +22,6 @@ If you’re here because you like tinkering, experimenting, and making things th
 
 [![Followers](https://img.shields.io/github/followers/turtleboyagain120?style=social&logo=github)](https://github.com/turtleboyagain120)
 [![Stars](https://img.shields.io/github/stars/turtleboyagain120?style=social&logo=github)](https://github.com/turtleboyagain120)
-[![Issues](https://img.shields.io/github/issues/turtleboyagain120?style=for-the-badge&logo=issue-opened)](https://github.com/turtleboyagain120/issues)
-
 ---
 
 ## 🧠 How I like to work

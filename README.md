@@ -1,11 +1,13 @@
-
 <div align="center">
 
-# 👋 Hi, I’m **Turtle**
+# turtleboyagain120
 
 <p>
-I build and learn in public—mostly around <b>web tech</b>, <b>proxies / networking</b>, and practical <b>dev tooling</b>.
-If you’re here because you like tinkering, experimenting, and making things that actually work, you’re in the right place.
+I’m a <b>Christian developer</b> (he/him) who builds in public—<b>web development</b>, <b>networking/proxy experimentation</b>, <b>game development</b>, and <b>educational resources</b>.
+</p>
+
+<p>
+I document what I learn as I build, so others can learn from my experiments and iterate faster.
 </p>
 
 <p>
@@ -14,165 +16,154 @@ If you’re here because you like tinkering, experimenting, and making things th
 </a>
 </p>
 
+<p>
+📍 South Carolina (SC) • 🕒 UTC-04:00
+</p>
+
 </div>
 
 ---
 
-## 📌 Quick stats (because it’s fun)
-
-[![Followers](https://img.shields.io/github/followers/turtleboyagain120?style=social&logo=github)](https://github.com/turtleboyagain120)
-[![Stars](https://img.shields.io/github/stars/turtleboyagain120?style=social&logo=github)](https://github.com/turtleboyagain120)
----
-
-## 🧠 How I like to work
-
-- I start with a small, testable goal.
-- I document what I learn (so others don’t have to repeat the same mistakes).
-- I iterate: prototype → feedback → improvements.
-- I’m especially interested in projects that are useful for real workflows.
-
-If you open an issue and describe what you’re trying to do, I’m much more likely to respond quickly.
-
----
-
-## 🔥 My focus areas
-
-### 🌐 Web UI & Frontend
-I enjoy building clean UI prototypes and experimenting with UI patterns.
-
-- HTML / CSS / JS experiments
-- Login demos & site prototypes
-- Responsive, “works on mobile too” builds
-
-### 🧩 Networking, Proxies & VPN learning
-My learning path is hands-on: routing, caching, and tunneling concepts—then turning them into tools.
-
-- Reverse proxy + caching ideas
-- Config-focused experimentation
-- Benchmarks / tests to understand performance
-
-### 🛠️ Practical engineering
-I like developer tools that are easy to use and easy to extend.
-
-- small utilities
-- docker-friendly setups
-- readable docs
-
----
-
-## 🚀 Featured projects (friendly picks)
-
-Below are a few repos I’m proud of. If any of these match what you’re working on, feel free to fork, star, or open a discussion.
-
-### 🎯 Testing & Benchmarks
-- **Proxy Bench** — https://github.com/turtleboyagain120/proxy-bench
-- **AI-GPT Tester** — https://github.com/turtleboyagain120/ai-proxy-tester
-- **VPN / Speedtest tools** — (see Proxy Bench + related repos)
-
-### 🎛️ UI Config & Tooling
-- **Clash UI Config** — https://github.com/turtleboyagain120/boring-clash-ui
-- **Clash / Sing-box UI experiments** — https://github.com/turtleboyagain120/sing-box-ui
-
-### 🧪 Learning projects
-- **Learn Proxys** — https://github.com/turtleboyagain120/Learn-proxys
-- **boring-proxy** / related lab builds — https://github.com/turtleboyagain120/boring-proxy
-
-### 🧱 Quick viral / collections (for browsing)
-- **quick-viral-projects** — https://github.com/turtleboyagain120/quick-viral-projects
-
----
-
-## 🧭 What I’m building next
-
-- More web tools and UI demos (clean UX, practical features)
-- Proxy/network learning projects with clearer docs
-- Experiments that teach concepts without turning into guesswork
-
----
-
-## 🌟 A simple “timeline” mindset
-
-Instead of being secretive, I treat learning like a progression.
-
-| Level | What I’m working on | What it looks like |
-|------:|------------------------|---------------------|
-| 🟢 Novice | HTML structure | landing pages & basic layouts |
-| 🟡 Apprentice | CSS animations | small UI effects, glow, polish |
-| 🟠 Journeyman | responsive design | mobile-first prototypes |
-| 🔴 Master | advanced layouts | multi-page demos |
-| 🟣 Legend | network integration | proxy + routing experiments |
-
----
-
-## 🌍 Proxy Learning Expedition (overview)
-
-One of my recurring themes: learn proxies the “build it yourself” way.
-
-I’ve been experimenting with ideas that combine:
-- reverse proxying
-- caching concepts
-- tunneling/VPN chaining (learning-focused)
-
-It’s not just theory—my goal is to understand the moving parts so I can build tools that are reliable and easier to configure.
-
----
-
-## 🤝 Collaboration / How to reach me
-
-I’m always open to friendly collaboration.
-
-If you want to work together, here are the best ways:
-- ⭐ Star a repo you like
-- 📝 Open an issue with your goal (what you want + what you tried)
-- 💬 If there’s a discussion thread, join it—no need to be formal
-
----
-
-## ✅ Quick links
-- GitHub: https://github.com/turtleboyagain120
-- Issues: https://github.com/turtleboyagain120/issues
-
----
-
-## 🏛️ Repository Spotlights (friendlier tour)
-
-### 🧾 1) License / compliance sandbox
-I test how different licenses behave in real repo setups—so people understand what they can reuse.
-- **License-testing** — https://github.com/turtleboyagain120/License-testing
-- **didactic / license-related experiments** — tiny lab repos for learning + clarity
-
-### 🧪 2) “EULA / terms” exploration
-I experiment with the text and structure of terms (EULA-style), mainly to understand how projects communicate rules.
-- **IET** — https://github.com/turtleboyagain120/IET
-
-### 🗃️ 3) Public archives (historical snapshots)
-Some repos are archived or carried forward—still useful as learning references and “what changed” history.
-- **Archived-work-from-turtleboyagain120** — https://github.com/turtleboyagain120/Archived-work-from-turtleboyagain120
-
-### 🎓 4) School / classroom quality material
-I create learning resources meant for students and educators—simple, readable, and focused on practical concepts.
-- **School_quality** — https://github.com/turtleboyagain120/School_quality
-- **The-Classroom** — https://github.com/School-quality-studios/The-Classroom
-
-### 📚 5) Learning templates & examples
-A collection of “starter-like” projects, templates, and examples meant to explain how things work step-by-step.
-- **School-info** — https://github.com/School-quality-studios/School-info
-- **turtleboyagain120.github.io** — https://github.com/turtleboyagain120/turtleboyagain120.github.io
-
-### 🧠 6) Small experiments / code-learning labs
-Short repos where I test ideas, languages, and small Git learnings—focused on experimentation and documentation.
-- **Git-learning** — https://github.com/turtleboyagain120/Git-learning
-- **Lobotomy-un-** — https://github.com/turtleboyagain120/Lobotomy-un-
-
----
-
+## 📌 Quick stats
 
 <div align="center">
 
-### 🐢 **Always evolving**
-
-#webdev #css #html #proxies #docker #nginx #learning
+[![Followers](https://img.shields.io/github/followers/turtleboyagain120?style=social&logo=github)](https://github.com/turtleboyagain120)
+[![Stars](https://img.shields.io/github/stars/turtleboyagain120?style=social&logo=github)](https://github.com/turtleboyagain120)
+[![Following](https://img.shields.io/github/following/turtleboyagain120?style=social&logo=github)](https://github.com/turtleboyagain120)
 
 </div>
 
+- **Repos:** 30
+- **Stars:** 27
+- **Followers:** 1
+- **Following:** 11
+- **Contributions (last year):** 467
 
+> Tip: I respond fastest when the issue clearly describes the goal + your current attempt.
+
+
+
+---
+
+## 🛐 Faith & focus
+
+I’m a **Christian developer** (he/him), based in **South Carolina (SC)** — timezone **UTC-04:00**.
+
+---
+
+## 🧠 How I like to work (learning-in-public)
+
+- I start with a **small, testable goal**.
+- I document what I learn so others don’t have to repeat the same mistakes.
+- I iterate: **prototype → feedback → improvements**.
+- I build tools that solve real workflow problems.
+
+If you open an issue with a clear purpose, I’m much more likely to respond quickly.
+
+---
+
+## 🔥 Main focus areas
+
+### 🌐 Web UI & Frontend
+Clean HTML/CSS/JS prototypes, login demos, and responsive mobile-friendly designs.
+
+- HTML / CSS / JavaScript experiments
+- UI patterns that are readable and practical
+- Responsive, “works on mobile too” builds
+
+### 🧩 Networking, Proxies & VPN Learning
+Hands-on experimentation: routing, caching, tunneling, reverse proxies, and performance benchmarks.
+
+- Reverse proxy concepts
+- Config-focused experimentation
+- Benchmarks / tests to understand performance
+
+### 🛠️ Practical Engineering
+Small utilities, Docker-friendly setups, and tools with readable documentation.
+
+- Small dev tools
+- Docker-friendly experimentation
+- Documentation-first implementation
+
+---
+
+## 🚀 Featured projects (what I’m proud of)
+
+> Each project is built in small steps, with notes on what worked, what didn’t, and how to improve it.
+
+### 🧪 Networking performance & testing
+- **Proxy Bench** — https://github.com/turtleboyagain120/proxy-bench
+- **AI-GPT Tester** — https://github.com/turtleboyagain120/ai-proxy-tester
+- **boring-proxy** — https://github.com/turtleboyagain120/boring-proxy
+
+### 🎛️ Proxy UIs (Clash / Sing-box)
+- **Clash UI Config** — https://github.com/turtleboyagain120/boring-clash-ui
+- **Sing-box UI** — https://github.com/turtleboyagain120/sing-box-ui
+
+### 🎮 Game development
+- **FAULTLINE** — https://github.com/turtleboyagain120/FAULTLINE (2D shooter • **Apache 2.0**)
+
+### 🧰 Developer tools & learning resources
+- **DAvanceloader** — https://github.com/turtleboyagain120/DAvanceloader (advanced iframe loader)
+- **Learn Proxys** — https://github.com/turtleboyagain120/Learn-proxys
+- **quick-viral-projects** — https://github.com/turtleboyagain120/quick-viral-projects
+
+
+---
+
+## 🗂️ Repository categories (a tour)
+
+- **License-testing** — https://github.com/turtleboyagain120/License-testing (understanding license behavior)
+- **IET** — https://github.com/turtleboyagain120/IET (EULA/terms experimentation)
+- **Archived Work** — https://github.com/turtleboyagain120/Archived-work-from-turtleboyagain120 (historical references)
+- **School_quality** — https://github.com/turtleboyagain120/School_quality (educational resources)
+- **The-Classroom** — https://github.com/School-quality-studios/The-Classroom (classroom-style learning)
+- **School-info** — https://github.com/School-quality-studios/School-info (templates)
+- **Personal site** — https://github.com/turtleboyagain120/turtleboyagain120.github.io
+- **Git-learning** — https://github.com/turtleboyagain120/Git-learning (experimentation)
+
+
+---
+
+## 🧭 Learning progression (my “leveling up” path)
+
+| Level | What I’m learning | What you’ll see in my repos |
+|---:|---|---|
+| 🟢 Novice | HTML structure / landing pages | clean layout, semantic structure |
+| 🟡 Apprentice | CSS animations / UI effects | polish, transitions, visual hierarchy |
+| 🟠 Journeyman | Responsive design / mobile-first | adaptive layouts, usability tweaks |
+| 🔴 Master | Advanced layouts / multi-page demos | components, richer UX flows |
+| 🟣 Legend | Network integration / proxy experiments | routing + proxy tooling + benchmarks |
+
+---
+
+## 🌍 External links
+
+- **GameJolt:** https://gamejolt.com/@turtleboyagain120
+- **Personal website:** https://turtleboyagain120.github.io/
+- **Linktree:** https://linktr.ee/turtleboyagain120
+- **guns.lol:** https://www.guns.lol/turtleboyagain
+- **Suno playlist:** https://suno.com/playlist/2907913b-f47e-4df9-9c0a-e5be0cc5b8b4
+
+
+---
+
+## 🤝 Collaboration & how to engage
+
+- ⭐ Star repos you find useful — it helps visibility and keeps me motivated to continue building in public.
+- 📝 Open issues with a **clear goal** + **what you tried** (I respond fastest when your message has context).
+- 💬 Join discussions — if you’re learning, I’m learning too. Let’s swap notes.
+
+If you want to collaborate, drop an issue and tell me what you’re building + what you’d like feedback on.
+
+
+---
+
+<div align="center">
+
+### 🐢 Always evolving
+
+#webdev #css #html #proxies #docker #nginx #learning #gamedev
+
+</div>

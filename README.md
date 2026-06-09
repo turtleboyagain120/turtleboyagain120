@@ -28,7 +28,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=turtleboyagain120&show_icons=true&theme=dark&hide_border=true&rank_icon=github&card_width=480"
+        src="https://github-readme-stats.vercel.app/api?username=turtleboyagain120&show_icons=true&theme=dark&hide_border=true&rank_icon=github&card_width=520"
         alt="GitHub Stats"
       />
     </td>
@@ -43,8 +43,8 @@
   <tr>
     <td colspan="2">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=turtleboyagain120&theme=dark&hide_border=true"
-        alt="GitHub Streak"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=turtleboyagain120&theme=github-dark&hide_border=true"
+        alt="Contribution / Activity Graph"
       />
     </td>
   </tr>
@@ -52,12 +52,22 @@
   <tr>
     <td colspan="2">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=turtleboyagain120&theme=github-dark&hide_border=true"
-        alt="GitHub Activity Graph"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=turtleboyagain120&repo=DAvanceloader&theme=dark&hide_border=true"
+        alt="Pinned Repo: DAvanceloader"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=turtleboyagain120&repo=WeMon_dreamV1-I-BSL-1.0&theme=dark&hide_border=true"
+        alt="Pinned Repo: WeMon_dreamV1-I-BSL-1.0"
       />
     </td>
   </tr>
 </table>
+
 
 ---
 

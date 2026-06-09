@@ -24,23 +24,40 @@
 ---
 
 ## 📌 Quick stats
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=turtleboyagain120&show_icons=true&theme=dark&hide_border=true&rank_icon=github&card_width=480"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=turtleboyagain120&layout=compact&theme=dark&hide_border=true&langs_count=10"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
 
-<div align="center">
-  <a href="https://github.com/turtleboyagain120">
-    <img src="https://img.shields.io/github/followers/turtleboyagain120?style=social&logo=github" />
-  </a>
-  <a href="https://github.com/turtleboyagain120">
-    <img src="https://img.shields.io/github/stars/turtleboyagain120?style=social&logo=github" />
-  </a>
-</div>
+  <tr>
+    <td colspan="2">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=turtleboyagain120&theme=dark&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
 
-- **Repos:** 30+
-- **Stars:** 27+
-- **Followers:** 1+
-- **Following:** 11+
-- **Contributions (last year):** 467+
-
-> Tip: I reply fastest when you state the goal + what you’ve tried.
+  <tr>
+    <td colspan="2">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=turtleboyagain120&theme=github-dark&hide_border=true"
+        alt="GitHub Activity Graph"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
